@@ -9,5 +9,7 @@ TODO: Guide users through getting your code up and running on their own system. 
 4.	API references
 
 # Build and Test
-TODO: To build and test the attached source code please use the following online editor 
-https://www.jdoodle.com/execute-swift-online/ 
+TODO: To build and test the attached source code:
+1- Open Contents.swift 
+2- test the attached code using the following editor
+    https://www.jdoodle.com/execute-swift-online/ 
