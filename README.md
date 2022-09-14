@@ -10,8 +10,8 @@ TODO: Guide users through getting your code up and running on their own system. 
 
 # Build and Test
 TODO: To build and test the attached source code:
-1- Open Contents.swift 
-2- test the attached code using the following editor
+1.  Open Contents.swift 
+2. test the attached code using the following editor
     https://www.jdoodle.com/execute-swift-online/ 
 
-Thanks
+
