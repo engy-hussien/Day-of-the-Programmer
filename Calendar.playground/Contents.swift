@@ -1,7 +1,3 @@
-import UIKit
-import Foundation
-
-var greeting = "Hello, playground"
 
 func getPD(year: Int)-> String {
     
